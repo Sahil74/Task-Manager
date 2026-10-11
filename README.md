@@ -13,9 +13,9 @@ An interactive Excel operations dashboard designed to track team productivity, c
 ---
 
 ### Visual Breakdown
-1. **Work Items by Status (Bar Chart):** Tracks throughput across *Completed*, *In Progress*, *Not Started*, and *On Hold* stages[cite: 1].
-2. **Workload Volume (Donut Chart):** Visualizes task volume across core units including *Customer Experience*, *Finance*, *Marketing*, *Operations*, and *People & Culture*[cite: 1].
-3. **Top Assignees Load Breakdown (Stacked Bar Chart):** Highlights individual capacity, completion ratios, and status distribution across key team members[cite: 1].
+1. **Work Items by Status (Bar Chart):** Tracks throughput across *Completed*, *In Progress*, *Not Started*, and *On Hold* stages.
+2. **Workload Volume (Donut Chart):** Visualizes task volume across core units including *Customer Experience*, *Finance*, *Marketing*, *Operations*, and *People & Culture*.
+3. **Top Assignees Load Breakdown (Stacked Bar Chart):** Highlights individual capacity, completion ratios, and status distribution across key team members.
 
 ---
 
