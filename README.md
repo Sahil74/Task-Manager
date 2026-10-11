@@ -3,6 +3,10 @@
 An interactive Excel operations dashboard designed to track team productivity, cross-departmental workload distribution, and task execution status across project lifecycles.
 
 ---
+![Task Manager Dashboard Overview](Pasted 2026-10-11 at 4.52.10 pm.png)
+
+
+---
 
 ## 🔍 Key Insights & Findings
 
